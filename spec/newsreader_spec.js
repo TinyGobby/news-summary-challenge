@@ -1,0 +1,1 @@
+var newsreader = new Newesreader();
